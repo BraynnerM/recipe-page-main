@@ -30,7 +30,7 @@ Os usuários devem ser capazes de:
 ### Links
 
 - URL da solução: [Github](https://github.com/BraynnerM/recipe-page-main)
--  URL do site no Github Pages: [Recipe Page]()
+-  URL do site no Github Pages: [Recipe Page](https://braynnerm.github.io/recipe-page-main/)
 
 ## Meu processo
 
