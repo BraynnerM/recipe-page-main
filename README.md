@@ -47,7 +47,7 @@ Os usuários devem ser capazes de:
 
 ## Autor
 
-- Linkedin - [BraynnerM](https://www.linkedin.com/in/braynner-marques-ribeiro-de-oliveira-88142b256/)
+- Linkedin - [BraynnerM](https://www.linkedin.com/in/braynner)
 - Github - [BraynnerM](https://github.com/BraynnerM)
 - Frontend Mentor - [BraynnerM](https://www.frontendmentor.io/profile/BraynnerM)
 - Twitter - [BraynnerMarques](https://twitter.com/BraynnerMarques)
