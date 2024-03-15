@@ -24,7 +24,7 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 
-![](.\assets\images\screen-shot.png)
+![](./public/src/assets/screen-shot.png)
 
 ### Links
 
