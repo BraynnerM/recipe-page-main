@@ -21,7 +21,6 @@ Esta é uma solução para o desafio do Frontend Mentor [Recipe Page on Frontend
 Os usuários devem ser capazes de:
 
 - Visualizar o layout ideal dependendo do tamanho da tela do dispositivo
-- Ver hover states nos elementos interativos
 
 ### Captura de tela
 
@@ -43,7 +42,6 @@ Os usuários devem ser capazes de:
 ### Recursos úteis
 
 - [Perfect pixel](https://www.welldonecode.com/perfectpixel/) - Me ajudou muito a conseguir fazer o meu projeto a ficar o mais parecido possível com o modelo do Frontend mentor.
-- [Responsive viewer](https://responsiveviewer.org/) - Me ajudou a visualizar a responsividade do projeto para diferentes tamanhos de tela.
 
 ## Autor
 
